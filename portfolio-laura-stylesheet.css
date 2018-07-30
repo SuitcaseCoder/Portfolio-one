@@ -1,0 +1,25 @@
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Quicksand", sans-serif;
+}
+
+/* Navbar section */
+nav {
+  position: fixed;
+  text-align: center;
+  padding: 15px;
+}
+
+nav ul li {
+  list-style-type: none;
+}
+
+/* Laura -title - landing page */
+
+#laura {
+  width: 100%;
+}
